@@ -20,7 +20,7 @@ namespace OuterWildsHebrewTranslation
 
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "Hebrew", "assets/Translation.xml");
-            api.AddLanguageFont(this, "Hebrew", "assets/rubikbundle", "Assets/Rubik-Regular.ttf");
+            api.AddLanguageFont(this, "Hebrew", "assets/hebrewbundle", "Assets/Rubik-Regular.ttf");
             //api.AddLanguageFixer(this, )
         }
     }

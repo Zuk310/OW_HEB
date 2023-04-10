@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2029917687
+CRC: 3081346359
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f0d5172f65d63565d67b6dcfbabca9b
+    Hash: f07e969a37f495cae6e42b5fd7dc426d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8becd547c702b21343d9309dc05a5f64
+    Hash: cea17de082da1dfd38b5ed053fc34ca1
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -19,20 +19,18 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Rubik-SemiBold.ttf
-- Assets/Rubik-SemiBoldItalic.ttf
 - Assets/Rubik-ExtraBoldItalic.ttf
-- Assets/Rubik-BoldItalic.ttf
-- Assets/Rubik-Medium.ttf
-- Assets/Rubik-Regular.ttf
-- Assets/Rubik-Bold.ttf
-- Assets/Rubik-MediumItalic.ttf
-- Assets/Rubik-VariableFont_wght.ttf
-- Assets/Rubik-Italic.ttf
-- Assets/Rubik-LightItalic.ttf
 - Assets/Rubik-Black.ttf
+- Assets/Rubik-BoldItalic.ttf
 - Assets/Rubik-BlackItalic.ttf
-- Assets/Rubik-ExtraBold.ttf
+- Assets/Rubik-Italic.ttf
+- Assets/Rubik-MediumItalic.ttf
+- Assets/Rubik-Regular.ttf
+- Assets/Rubik-Medium.ttf
+- Assets/Rubik-LightItalic.ttf
+- Assets/Rubik-SemiBoldItalic.ttf
+- Assets/Rubik-SemiBold.ttf
+- Assets/Rubik-Bold.ttf
 - Assets/Rubik-Light.ttf
-- Assets/Rubik-Italic-VariableFont_wght.ttf
+- Assets/Rubik-ExtraBold.ttf
 Dependencies: []
